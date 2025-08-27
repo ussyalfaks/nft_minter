@@ -1,0 +1,14 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+
+# Yarn PnP files (auto-generated)
+.pnp.cjs
+.pnp.loader.mjs
+
+# Test fixtures (downloaded by prepare.mjs)
+tests/fixtures/*.so
